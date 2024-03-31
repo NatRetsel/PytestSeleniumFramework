@@ -1,0 +1,70 @@
+2024-03-30 21:28:33,995 : INFO : test_e2e : Getting all items
+2024-03-30 21:28:34,035 : INFO : test_e2e : Blackberry
+2024-03-30 21:28:34,104 : INFO : test_e2e : Populating autosuggestive text with 'ind'
+2024-03-30 21:28:39,253 : INFO : test_e2e : Text received from alert: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 21:31:22,321 : INFO : test_formSubmission : Filling email - hello@gmail.com
+2024-03-30 21:31:22,425 : INFO : test_formSubmission : Filling password - password
+2024-03-30 21:31:22,463 : INFO : test_formSubmission : Selecting Gender - Female
+2024-03-30 21:31:22,486 : INFO : test_formSubmission : Filling name - Nat
+2024-03-30 21:31:22,519 : INFO : test_formSubmission : Filling text box - example text
+2024-03-30 21:31:22,677 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:31:22,677 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:31:22,695 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:31:22,695 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:31:22,725 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:31:22,725 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:31:22,735 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:31:22,735 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:31:22,778 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:31:22,778 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:31:26,805 : INFO : test_e2e : Getting all items
+2024-03-30 21:31:26,854 : INFO : test_e2e : Blackberry
+2024-03-30 21:31:26,922 : INFO : test_e2e : Populating autosuggestive text with 'ind'
+2024-03-30 21:31:32,065 : INFO : test_e2e : Text received from alert: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 21:38:50,543 : INFO : test_e2e : Getting all items
+2024-03-30 21:38:50,579 : INFO : test_e2e : Blackberry
+2024-03-30 21:38:50,641 : INFO : test_e2e : Populating autosuggestive text with 'ind'
+2024-03-30 21:38:55,838 : INFO : test_e2e : Text received from alert: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 21:41:13,244 : INFO : test_formSubmission : Filling email - hello@gmail.com
+2024-03-30 21:41:13,327 : INFO : test_formSubmission : Filling password - password
+2024-03-30 21:41:13,365 : INFO : test_formSubmission : Selecting Gender - Female
+2024-03-30 21:41:13,387 : INFO : test_formSubmission : Filling name - Nat
+2024-03-30 21:41:13,418 : INFO : test_formSubmission : Filling text box - example text
+2024-03-30 21:41:13,565 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:41:13,565 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:41:13,584 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:41:13,584 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:41:13,616 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:41:13,616 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:41:13,628 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:41:13,628 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:41:13,670 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:41:13,670 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:41:17,088 : INFO : test_e2e : Getting all items
+2024-03-30 21:41:17,137 : INFO : test_e2e : Blackberry
+2024-03-30 21:41:17,209 : INFO : test_e2e : Populating autosuggestive text with 'ind'
+2024-03-30 21:41:22,398 : INFO : test_e2e : Text received from alert: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-30 21:44:02,242 : INFO : test_formSubmission : Filling email - hello@gmail.com
+2024-03-30 21:44:02,319 : INFO : test_formSubmission : Filling password - password
+2024-03-30 21:44:02,355 : INFO : test_formSubmission : Selecting Gender - Female
+2024-03-30 21:44:02,377 : INFO : test_formSubmission : Filling name - Nat
+2024-03-30 21:44:02,411 : INFO : test_formSubmission : Filling text box - example text
+2024-03-30 21:44:02,566 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:44:02,566 : INFO : test_formSubmission : Filling email - hello1@gmail.com
+2024-03-30 21:44:02,585 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:44:02,585 : INFO : test_formSubmission : Filling password - password1
+2024-03-30 21:44:02,615 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:44:02,615 : INFO : test_formSubmission : Selecting Gender - Male
+2024-03-30 21:44:02,625 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:44:02,625 : INFO : test_formSubmission : Filling name - Nate
+2024-03-30 21:44:02,667 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:44:02,667 : INFO : test_formSubmission : Filling text box - example text1
+2024-03-30 21:44:04,469 : INFO : test_e2e : Getting all items
+2024-03-30 21:44:04,497 : INFO : test_e2e : Blackberry
+2024-03-30 21:44:04,561 : INFO : test_e2e : Populating autosuggestive text with 'ind'
+2024-03-30 21:44:09,705 : INFO : test_e2e : Text received from alert: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
