@@ -20,7 +20,10 @@ def setup(request):
 
     # Probably should use switch case
     if browser_name == "chrome":
-        driver: WebDriver = webdriver.Chrome()
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
+        options.add_argument('--no-sandbox')
+        driver: WebDriver = webdriver.Chrome(options=options)
     elif browser_name == "firefox":
         driver:WebDriver = webdriver.Firefox()
     elif browser_name == "edge":
